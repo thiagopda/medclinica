@@ -1,6 +1,8 @@
 # medclinica
 Sistema de gestão para clínica médica
 
+#Features
+
   1- Paystack, SSL Commerz, Stripe, Paytm, Authorize.net, 2Checkout Payment Gateways.
   2- Gateways Twilio, BulkSms e BdBulkSms sms.
   3- Opção de edição de idioma.
